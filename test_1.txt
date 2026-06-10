@@ -1,0 +1,4 @@
+- Es una forma de onda cuadrada
+- Frecuencia 1KHz
+- El período no se se modifica t=(1/F)=1mS
+- Se modifica el duty cicle: (t en alto)/(período)

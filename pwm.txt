@@ -1,0 +1,2 @@
+-Vemos que la configuración del RCC esta en modo Crystal/Ceramic Resonator tanto el reloj de alta como de baja velocidad
+- Y la configuración del TIM3 establecida como generadora de PWM en el CH1 con las interrupciones desabilitadas

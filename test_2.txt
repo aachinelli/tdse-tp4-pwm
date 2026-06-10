@@ -1,0 +1,4 @@
+- En este caso se mantiente la forma de onda cuadrada
+- Varía la frecuencia y el período
+- Como estos cambian en la misma proporción, el ciclo de trabajo no cambia %DC=250uS/500uS=50%
+- Por eso se nota el led con el mismo brillo siempre
